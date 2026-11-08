@@ -21,3 +21,4 @@ Las dos van con `type: Recipe`. La foto va al lado, con el mismo nombre (`<recet
 | Letra | Receta |
 | --- | --- |
 | T | [Tortilla de patata con cebolla](t/tortilla-de-patata-con-cebolla.es.md) · [Spanish potato omelette with onion](t/tortilla-de-patata-con-cebolla.en.md) |
+| T | [Tostadas de aceite, tomate, ajo y jamón serrano](t/tostadas-de-aceite-tomate-ajo-jamon-serrano.es.md) · [Toast with olive oil, tomato, garlic and serrano ham](t/tostadas-de-aceite-tomate-ajo-jamon-serrano.en.md) |
